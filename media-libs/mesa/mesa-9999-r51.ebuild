@@ -4,8 +4,7 @@
 
 EAPI=5
 
-EGIT_REPO_URI="git://github.com/okias/mesa"
-EGIT_BRANCH="gallium-nine-rebase"
+EGIT_REPO_URI="git://github.com/iXit/Mesa-3D"
 
 if [[ ${PV} = 9999* ]]; then
 	GIT_ECLASS="git-r3"
